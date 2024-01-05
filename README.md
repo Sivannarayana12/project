@@ -63,9 +63,19 @@ Here I am attaching the final working website's screenshot for the reference.
 # Storage Service:
 Description :
 Storage services encompass a range of solutions designed to store, organize, and manage data efficiently. These services can vary in terms of scalability, performance, accessibility, and features, catering to diverse requirements across industries. 
-
-
-
+![sTORAGE ACCOUNT SHIVA](https://github.com/Sivannarayana12/project/assets/154424586/f0fc2a04-b97c-4412-b28a-fb6239e366cc)
+# Blob service:
+Description :
+Blob service is a cloud-based storage service designed for the scalable storage of binary or text data, often in the form of files such as images, videos, documents, and backups. It provides a simple and flexible way to store and retrieve large amounts of unstructured data in the cloud. 
+# Containers:
+Description :
+Containers are a lightweight and portable form of virtualization that encapsulates an application and its dependencies, including libraries, runtime, and system tools, into a single, executable package. This package is called a container image. Containers provide a consistent and reproducible environment, ensuring that the application runs consistently across different computing environments, whether it be a developer's laptop, a test environment, or a production server.
+# Language service:
+Description :
+Language service descriptions play a crucial role in providing a clear understanding of the capabilities, features, and use cases of language-related services offered by cloud platforms like Azure. It plays a pivotal role in guiding developers, architects, and decision-makers in selecting, integrating, and utilizing language-related services effectively within their applications and projects.
+# Working Live Project Display
+Description :
+Here I am attaching the final working website's screenshot for the reference.
 
 # Final Project Statement
 Green-japs is set to introduce an advanced Eco-friendly AI Chatbot, leveraging cutting-edge technologies on Microsoft's Azure platform, to provide personalized and context-aware interactions for gardening enthusiasts, nature lovers, and herbalists, enhancing the overall shopping experience through seamless integration with the platform's diverse product range.
