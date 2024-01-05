@@ -5,16 +5,33 @@ Project Demo URL :
 
 Demo Video URL :
 
-Github Repository URL :
+Github Repository URL : https://github.com/Sivannarayana12/project/edit/main/README.md
 
 Industry : Lifestyle and Technology
+
+TECHNOLOGIES USED:
+
+•	HTML 5
+•	CSS 3
+•	Java Script
+•	Azure Portal
+
 # Azure Services Used
-1.Storage service
-2.Blob service
-3.Containers
+
+
+•	Storage Account
+
+•	Azure Blob storage
+
+•	Azure Backup Service
+
+
 # Azure AI Service
-1.Language service
-2.Azure Bot service 
+•	Language service
+
+•	Azure Bot service
+
+
 # Problem Statement:
 Despite the growing interest in gardening, there is a lack of dedicated, user-friendly, and eco-friendly platforms for gardening enthusiasts, nature lovers, and herbalists, hindering their ability to easily access a comprehensive range of high-quality indoor and outdoor plants, seeds, natural fertilizers, and curated Ayurvedic and medicinal herbs.
 # Project Decription:
