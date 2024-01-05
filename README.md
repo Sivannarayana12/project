@@ -1,4 +1,4 @@
-# Green Jasps
+# Greenjaps
 A Green-japs is a user-friendly, eco-conscious platform tailored for gardening enthusiasts, nature lovers, and herbalists, providing a seamless shopping experience with a diverse range of indoor and outdoor plants, high-quality seeds, natural fertilizers, and a curated selection of Ayurvedic and medicinal herbs.
 # Project Details
 Project Demo URL :
