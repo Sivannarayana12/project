@@ -106,6 +106,7 @@ Here I am attaching the final working website's screenshot for the reference.
 ![HOME PAGE](https://github.com/Sivannarayana12/project/assets/154424586/8bc6e71f-5e17-4a10-aae3-c39d09179242)
 ![HOME PAGE-2](https://github.com/Sivannarayana12/project/assets/154424586/765a98fc-4a43-48db-a534-c534953866de)
 ![COMBO PACKS PAGE](https://github.com/Sivannarayana12/project/assets/154424586/300bb5c0-7eab-4240-a687-f71071883588)
+![CHATBOT](https://github.com/Sivannarayana12/project/assets/154424586/49454ccf-2b5c-48da-b96a-8131e1253ca2)
 
 # Final Project Statement
 Green-japs is set to introduce an advanced Eco-friendly AI Chatbot, leveraging cutting-edge technologies on Microsoft's Azure platform, to provide personalized and context-aware interactions for gardening enthusiasts, nature lovers, and herbalists, enhancing the overall shopping experience through seamless integration with the platform's diverse product range.
