@@ -10,7 +10,7 @@ Github Repository URL : https://github.com/Sivannarayana12/project/edit/main/REA
 
 Industry : Lifestyle and Technology
 
-# Technologies Used:
+# Technologies Used
 •	HTML 5
 
 •	CSS 3
@@ -48,7 +48,7 @@ Green-japs is an innovative Eco-friendly platform designed to cater to the needs
 
 •	Sustainability Practices
 
-# Future Enhancements:
+# Future Enhancements
 Green-japs envisions expanding its innovative platform to become a global hub for sustainable gardening, continually enhancing the user experience, introducing cutting-edge eco-friendly products, and fostering a vibrant community that shares a passion for nurturing nature, promoting wellness, and cultivating a greener world.
 
 # Core Azure Services
