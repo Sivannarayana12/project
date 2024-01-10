@@ -4,7 +4,7 @@ A Green-japs is a user-friendly, eco-conscious platform tailored for gardening e
 # Project Details
 Project Demo URL: https://ajps135.z13.web.core.windows.net/
 
-Demo Video URL:
+Demo Video URL: https://youtu.be/XoAc9qNCN5c?si=rd8_gCBFBeRa-bzn
 
 Github Repository URL: https://github.com/Sivannarayana12/project/edit/main/README.md
 
