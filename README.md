@@ -37,7 +37,7 @@ Despite the growing interest in gardening, there is a lack of dedicated, user-fr
 # Project Decription
 Green-japs is an innovative Eco-friendly platform designed to cater to the needs of gardening enthusiasts, nature lovers, and herbalists. Our website is designed to provide you with an easy and enjoyable shopping experience. Our simple and user-friendly interface ensures that you can find exactly what you’re for with ease looking. Our website offers a comprehensive range of products including a wide variety of indoor and outdoor plants, high-quality seeds, natural fertilizers, and a curated selection of Ayurvedic and medicinal herbs.
 
-# Key features
+# Key Features
 •	Diverse Product Range
 
 •	User-Friendly Interface
