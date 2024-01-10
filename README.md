@@ -90,7 +90,7 @@ Storage services encompass a range of solutions designed to store, organize, and
 
 # Blob service:
 **Description:**
-Blob service is a cloud-based storage service designed for the scalable storage of binary or text data, often in the form of files such as images, videos, documents, and backups. It provides a simple and flexible way to store and retrieve large amounts of unstructured data in the cloud.
+Blob Service is a cloud-based storage service designed for the scalable storage of binary or text data, often in the form of files such as images, videos, documents, and backups. It provides a simple and flexible way to store and retrieve large amounts of unstructured data in the cloud.
 
 ![BLOB STORAGE](https://github.com/Sivannarayana12/project/assets/154424586/efe77c42-8823-4c57-9701-73e19bb8ed66)
 
