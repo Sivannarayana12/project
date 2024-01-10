@@ -43,9 +43,7 @@ Green-japs is an innovative Eco-friendly platform designed to cater to the needs
 •	User-Friendly Interface
 
 •	Innovative and Eco-Friendly Platform
-
 •	Convenient Shopping Experience
-
 •	Sustainability Practices
 
 # Future Enhancements
