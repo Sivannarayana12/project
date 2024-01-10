@@ -76,7 +76,7 @@ Issues immediately alerts on deviations from set overall performance thresholds,
 
 # Azure Application Insights:
 **User Interaction Insights:**
-Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
+Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition
 
 **Diagnostics Precision:** 
 Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
@@ -90,13 +90,13 @@ Storage services encompass a range of solutions designed to store, organize, and
 
 # Blob service:
 **Description:**
-Blob service is a cloud-based storage service designed for the scalable storage of binary or text data, often in the form of files such as images, videos, documents, and backups. It provides a simple and flexible way to store and retrieve large amounts of unstructured data in the cloud. 
+Blob service is a cloud-based storage service designed for the scalable storage of binary or text data, often in the form of files such as images, videos, documents, and backups. It provides a simple and flexible way to store and retrieve large amounts of unstructured data in the cloud
 
 ![BLOB STORAGE](https://github.com/Sivannarayana12/project/assets/154424586/efe77c42-8823-4c57-9701-73e19bb8ed66)
 
 # Containers:
 **Description:**
-Containers are a lightweight and portable form of virtualization that encapsulates an application and its dependencies, including libraries, runtime, and system tools, into a single, executable package. This package is called a container image. Containers provide a consistent and reproducible environment, ensuring that the application runs consistently across different computing environments, whether it be a developer's laptop, a test environment, or a production server.
+Containers are a lightweight and portable form of virtualization that encapsulates an application and its dependencies, including libraries, runtime, and system tools, into a single, executable package. This package is called a container image. Containers provide a consistent and reproducible environment, ensuring that the application runs consistently across different computing environments, whether it be a developer's laptop, a test environment, or a production server
 
 ![CONTAINER](https://github.com/Sivannarayana12/project/assets/154424586/e0208bc1-a537-4e38-bde8-b61d644e1df0)
 
